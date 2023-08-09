@@ -2,5 +2,6 @@ Texto de prueba para subir a GitHub
 Usando el controlador de versiones Git
 
 Ahora en adelante quiero aprender algunas cosas
-
-Git init commit and add
+Last name
+Name
+Locatio
