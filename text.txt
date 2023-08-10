@@ -13,3 +13,5 @@ puedo visualizar los ppv y show's semanales y disfrutar de todo ello
 hola
 
 texto agregado a master para fusion futura con merge.
+
+diseño css anidado en la cabacera.
