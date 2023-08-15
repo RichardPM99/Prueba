@@ -42,3 +42,9 @@ body
 {
     padding: 1em;
 }
+
+#cabecera #space
+{
+    width: 20px;
+    margin: 0 2% 0 2em;
+}
