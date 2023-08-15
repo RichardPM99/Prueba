@@ -48,3 +48,10 @@ body
     width: 20px;
     margin: 0 2% 0 2em;
 }
+
+#footer
+{
+    text-align: center;
+    padding: 2%;
+    background: grey;
+}
